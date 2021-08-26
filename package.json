@@ -1,0 +1,55 @@
+{
+  "name": "raven",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "@chakra-ui/react": "^1.6.4",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "@fontsource/archivo": "^4.5.1",
+    "@fontsource/inter": "^4.5.0",
+    "@hookform/resolvers": "^2.6.0",
+    "@reduxjs/toolkit": "^1.6.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^10.4.9",
+    "@testing-library/user-event": "^12.8.3",
+    "agora-rtc-sdk-ng": "^4.6.3",
+    "axios": "^0.21.1",
+    "framer-motion": "^4.1.17",
+    "moment": "^2.29.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.9.0",
+    "react-icons": "^3.11.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "resize-observer-polyfill": "^1.5.1",
+    "style-it": "^2.1.4",
+    "universal-cookie": "^4.0.4",
+    "yup": "^0.32.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "react-redux": "^7.2.4"
+  }
+}
